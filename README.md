@@ -1,0 +1,1 @@
+Classificador de sentimentos em tweets, em desenvolvimento
